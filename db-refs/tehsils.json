@@ -1,0 +1,52 @@
+[
+    {
+        "name": "SAMANABAD TOWN",
+        "opName": "samanabad",
+        "_id": "671c3997d1743976495e07a6"
+    },
+    {
+        "name": "NISHTER TOWN",
+        "opName": "nishter",
+        "_id": "671c39a4d1743976495e07a8"
+    },
+    {
+        "name": "GULBERG TOWN",
+        "opName": "gulberg",
+        "_id": "671c39add1743976495e07aa"
+    },
+    {
+        "name": "RAVI TOWN",
+        "opName": "ravi",
+        "_id": "671c39b6d1743976495e07ac"
+    },
+    {
+        "name": "ALLAMA IQBAL TOWN",
+        "opName": "allama iqbal",
+        "_id": "671c39bfd1743976495e07ae"
+    },
+    {
+        "name": "CANTT",
+        "opName": "cantt",
+        "_id": "671c39c8d1743976495e07b0"
+    },
+    {
+        "name": "DATA GUNJBUX TOWN",
+        "opName": "data gunjbux",
+        "_id": "671c39d2d1743976495e07b2"
+    },
+    {
+        "name": "SHALIMAR TOWN",
+        "opName": "shalimar",
+        "_id": "671c3a50d1743976495e07b4"
+    },
+    {
+        "name": "AZIZ BHATTI TOWN",
+        "opName": "aziz bhatti",
+        "_id": "671c3a5dd1743976495e07b6"
+    },
+    {
+        "name": "WAHGA",
+        "opName": "wahga",
+        "_id": "671c3a6bd1743976495e07b8"
+    }
+]

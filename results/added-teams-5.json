@@ -1,0 +1,4591 @@
+[
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "saleem ",
+        "flw": "sabiha khanum",
+        "teamName": "UC 15-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "saleem ",
+        "flw": "haroon ",
+        "teamName": "UC 15-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "saleem ",
+        "flw": "maleeha ",
+        "teamName": "UC 15-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "saleem ",
+        "flw": "mehtab ",
+        "teamName": "UC 15-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "saleem ",
+        "flw": "iqra islam",
+        "teamName": "UC 15-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "iram nazir",
+        "flw": "kanwal shehzadi",
+        "teamName": "UC 15-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "iram nazir",
+        "flw": "samina ",
+        "teamName": "UC 15-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "iram nazir",
+        "flw": "madeeha ",
+        "teamName": "UC 15-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "iram nazir",
+        "flw": "Fatima komal",
+        "teamName": "UC 15-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "iram nazir",
+        "flw": "sana ",
+        "teamName": "UC 15-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "iram nazir",
+        "flw": "saira ",
+        "teamName": "UC 15-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais lodhi",
+        "flw": "muqadas ",
+        "teamName": "UC 15-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais lodhi",
+        "flw": "saba raheem",
+        "teamName": "UC 15-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais lodhi",
+        "flw": "mumtaz batool",
+        "teamName": "UC 15-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais lodhi",
+        "flw": "uzma ijaz",
+        "teamName": "UC 15-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais lodhi",
+        "flw": "razia riaz",
+        "teamName": "UC 15-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais lodhi",
+        "flw": "sajida akram",
+        "teamName": "UC 15-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais aslam",
+        "flw": "imran jawed",
+        "teamName": "UC 15-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais aslam",
+        "flw": "tehmina kiran",
+        "teamName": "UC 15-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais aslam",
+        "flw": "amanat ali",
+        "teamName": "UC 15-20",
+        "teamNumber": 20,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais aslam",
+        "flw": "saira majeed",
+        "teamName": "UC 15-21",
+        "teamNumber": 21,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "abrar ahmad",
+        "aic": "awais aslam",
+        "flw": "naveed qamar",
+        "teamName": "UC 15-22",
+        "teamNumber": 22,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 15",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Aqsa shehzadi",
+        "flw": "Iram shahzadi",
+        "teamName": "UC 16A-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Aqsa shehzadi",
+        "flw": "Komal amanat",
+        "teamName": "UC 16A-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Aqsa shehzadi",
+        "flw": "Eman taj",
+        "teamName": "UC 16A-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Aqsa shehzadi",
+        "flw": "Saima yaqoob",
+        "teamName": "UC 16A-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Gulnaz nasir",
+        "flw": "Neelam channa",
+        "teamName": "UC 16A-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Gulnaz nasir",
+        "flw": "Faiza Bilal",
+        "teamName": "UC 16A-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Gulnaz nasir",
+        "flw": "Sadaf Butt",
+        "teamName": "UC 16A-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Gulnaz nasir",
+        "flw": "Mehwish ",
+        "teamName": "UC 16A-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Gulnaz nasir",
+        "flw": "Masood ",
+        "teamName": "UC 16A-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Fozia irfan",
+        "flw": "Hafiz abdullah",
+        "teamName": "UC 16A-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Fozia irfan",
+        "flw": "M Fiaz",
+        "teamName": "UC 16A-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Fozia irfan",
+        "flw": "Firdous ",
+        "teamName": "UC 16A-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Fozia irfan",
+        "flw": "Arooj munir",
+        "teamName": "UC 16A-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahid ilyas",
+        "aic": "Fozia irfan",
+        "flw": "Hafiz abdul rehman",
+        "teamName": "UC 16A-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shahid ",
+        "flw": "Nabila bibi",
+        "teamName": "UC 16B-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shahid ",
+        "flw": "Afia imran ",
+        "teamName": "UC 16B-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shahid ",
+        "flw": "Aisha bhutto",
+        "teamName": "UC 16B-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shahid ",
+        "flw": "Kaleem ",
+        "teamName": "UC 16B-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shahid ",
+        "flw": "Rukhsana ",
+        "teamName": "UC 16B-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Nazia mushtaq",
+        "flw": "Abida anjum",
+        "teamName": "UC 16B-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Nazia mushtaq",
+        "flw": "Rana ehsan",
+        "teamName": "UC 16B-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Nazia mushtaq",
+        "flw": "Khaleel ahmad",
+        "teamName": "UC 16B-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Nazia mushtaq",
+        "flw": "Sobia ",
+        "teamName": "UC 16B-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Nazia mushtaq",
+        "flw": "Asima ilyas",
+        "teamName": "UC 16B-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shoaib Safdar",
+        "flw": "Ayoob ramzan",
+        "teamName": "UC 16B-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shoaib Safdar",
+        "flw": "Azeem ",
+        "teamName": "UC 16B-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shoaib Safdar",
+        "flw": "Shan ali",
+        "teamName": "UC 16B-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shoaib Safdar",
+        "flw": "Almas ",
+        "teamName": "UC 16B-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Abdulrazaq ",
+        "aic": "Shoaib Safdar",
+        "flw": "Aftab ",
+        "teamName": "UC 16B-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Muhammad waseem",
+        "flw": "Tahmina Haider",
+        "teamName": "UC 16C-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Muhammad waseem",
+        "flw": "Muhammad Zeeshan",
+        "teamName": "UC 16C-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Muhammad waseem",
+        "flw": "Rukhsana Dilwar",
+        "teamName": "UC 16C-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Muhammad waseem",
+        "flw": "Mafia Zahid",
+        "teamName": "UC 16C-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Muhammad waseem",
+        "flw": "Khawar Ijaz",
+        "teamName": "UC 16C-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Saba javeed",
+        "flw": "Abroo ",
+        "teamName": "UC 16C-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Saba javeed",
+        "flw": "Adnan shahbaz",
+        "teamName": "UC 16C-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Saba javeed",
+        "flw": "Bushra Jabbar khan",
+        "teamName": "UC 16C-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Saba javeed",
+        "flw": "Ulfat Sanaullah",
+        "teamName": "UC 16C-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Saba javeed",
+        "flw": "Mehnaz Akhtar",
+        "teamName": "UC 16C-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Shahzad Safdar",
+        "flw": "Atif Essa Khan",
+        "teamName": "UC 16C-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Shahzad Safdar",
+        "flw": "Sonia shahid",
+        "teamName": "UC 16C-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Shahzad Safdar",
+        "flw": "Hifza ",
+        "teamName": "UC 16C-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Shahzad Safdar",
+        "flw": "M.Umer ali",
+        "teamName": "UC 16C-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Istkhar ali",
+        "aic": "Shahzad Safdar",
+        "flw": "Nimra Zahid",
+        "teamName": "UC 16C-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 16C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "RIZWAN ",
+        "flw": "SHAFIQUE ",
+        "teamName": "UC 17-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "RIZWAN ",
+        "flw": "GULSHAN SHAHZADI",
+        "teamName": "UC 17-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "RIZWAN ",
+        "flw": "NAZIA DURANI",
+        "teamName": "UC 17-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "RIZWAN ",
+        "flw": "FARYAL GOHAR",
+        "teamName": "UC 17-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "RIZWAN ",
+        "flw": "ALI RAEES",
+        "teamName": "UC 17-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "UMAIR ",
+        "flw": "SAJIDA SHUJA",
+        "teamName": "UC 17-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "UMAIR ",
+        "flw": "IJAZ ",
+        "teamName": "UC 17-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "UMAIR ",
+        "flw": "QURATUL AIN",
+        "teamName": "UC 17-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "UMAIR ",
+        "flw": "SUMERA ",
+        "teamName": "UC 17-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "imtiaz fareed",
+        "aic": "UMAIR ",
+        "flw": "NAZISH ASHRAF",
+        "teamName": "UC 17-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 17",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Tayyab ",
+        "flw": "Rizwana rasheed",
+        "teamName": "UC 18-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Tayyab ",
+        "flw": "Shumaila bibi",
+        "teamName": "UC 18-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Tayyab ",
+        "flw": "Shazia ",
+        "teamName": "UC 18-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Tayyab ",
+        "flw": "Kiran shehzadi",
+        "teamName": "UC 18-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Tayyab ",
+        "flw": "M. Javeed",
+        "teamName": "UC 18-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Tayyab ",
+        "flw": "Zarish ",
+        "teamName": "UC 18-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Wahab ",
+        "flw": "Uzma azeem",
+        "teamName": "UC 18-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Wahab ",
+        "flw": "Riffat jabeen",
+        "teamName": "UC 18-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Wahab ",
+        "flw": "Riffat ",
+        "teamName": "UC 18-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Wahab ",
+        "flw": "Shabina naz",
+        "teamName": "UC 18-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Wahab ",
+        "flw": "Sadia ",
+        "teamName": "UC 18-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Wahab ",
+        "flw": "Najma Fayyaz",
+        "teamName": "UC 18-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Mudassir ",
+        "flw": "Asma Akram",
+        "teamName": "UC 18-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Mudassir ",
+        "flw": "Saba Zulfiqar",
+        "teamName": "UC 18-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Mudassir ",
+        "flw": "Rubina Banaras",
+        "teamName": "UC 18-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Mudassir ",
+        "flw": "Khadija Saqib",
+        "teamName": "UC 18-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Mudassir ",
+        "flw": "Sughra ",
+        "teamName": "UC 18-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Faisal ",
+        "flw": "Rashida Faisal",
+        "teamName": "UC 18-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Faisal ",
+        "flw": "Sobia ashiq",
+        "teamName": "UC 18-20",
+        "teamNumber": 20,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Faisal ",
+        "flw": "Fiza Batool",
+        "teamName": "UC 18-21",
+        "teamNumber": 21,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Faisal ",
+        "flw": "Amber Akram",
+        "teamName": "UC 18-22",
+        "teamNumber": 22,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Faisal ",
+        "flw": "Naila Malik",
+        "teamName": "UC 18-23",
+        "teamNumber": 23,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Shaista Waqar",
+        "aic": "Faisal ",
+        "flw": "Rabia Badar",
+        "teamName": "UC 18-24",
+        "teamNumber": 24,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 18",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Hafiz Umar",
+        "flw": "Kiran ",
+        "teamName": "UC 19-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Hafiz Umar",
+        "flw": "Mazhar ",
+        "teamName": "UC 19-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Hafiz Umar",
+        "flw": "Iqra Shahzadi",
+        "teamName": "UC 19-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Hafiz Umar",
+        "flw": "Sobia Naveed",
+        "teamName": "UC 19-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ahmad Rizwan",
+        "flw": "Amir ",
+        "teamName": "UC 19-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ahmad Rizwan",
+        "flw": "Aqsa ",
+        "teamName": "UC 19-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ahmad Rizwan",
+        "flw": "Tahira ",
+        "teamName": "UC 19-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ahmad Rizwan",
+        "flw": "Komal ",
+        "teamName": "UC 19-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Mehwish Iftakhar",
+        "flw": "Asif Iqbal",
+        "teamName": "UC 19-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Mehwish Iftakhar",
+        "flw": "Naveed ",
+        "teamName": "UC 19-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Mehwish Iftakhar",
+        "flw": "Zubair ",
+        "teamName": "UC 19-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Mehwish Iftakhar",
+        "flw": "Ahmad ",
+        "teamName": "UC 19-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ali Raza",
+        "flw": "Mahmood ",
+        "teamName": "UC 19-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ali Raza",
+        "flw": "Maryam Raza",
+        "teamName": "UC 19-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ali Raza",
+        "flw": "Kanwal Ishtiyaq",
+        "teamName": "UC 19-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ali Raza",
+        "flw": "Afaq ",
+        "teamName": "UC 19-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Kahlid Rashid",
+        "aic": "Ali Raza",
+        "flw": "Sonia Ali",
+        "teamName": "UC 19-20",
+        "teamNumber": 20,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 19",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farah Shahzadi",
+        "flw": "Huntuma ",
+        "teamName": "UC 20-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farah Shahzadi",
+        "flw": "Amina Fiaz",
+        "teamName": "UC 20-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farah Shahzadi",
+        "flw": "Rehana kousar",
+        "teamName": "UC 20-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farah Shahzadi",
+        "flw": "Faheem ",
+        "teamName": "UC 20-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farah Shahzadi",
+        "flw": "Sofia gulnaz",
+        "teamName": "UC 20-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farah Shahzadi",
+        "flw": "Sohail ",
+        "teamName": "UC 20-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Hassan ijaz",
+        "flw": "Amina ",
+        "teamName": "UC 20-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Hassan ijaz",
+        "flw": "Iqra Iftakhar",
+        "teamName": "UC 20-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Hassan ijaz",
+        "flw": "usman nawaz",
+        "teamName": "UC 20-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Hassan ijaz",
+        "flw": "Hafiza Tranum Naz",
+        "teamName": "UC 20-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Hassan ijaz",
+        "flw": "Anna ",
+        "teamName": "UC 20-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farhan Butt",
+        "flw": "Shahzad Aziz",
+        "teamName": "UC 20-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farhan Butt",
+        "flw": "Momina ",
+        "teamName": "UC 20-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farhan Butt",
+        "flw": "Nazia Abdullah",
+        "teamName": "UC 20-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farhan Butt",
+        "flw": "Asma ",
+        "teamName": "UC 20-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farhan Butt",
+        "flw": "zahra ",
+        "teamName": "UC 20-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Iram mustafa",
+        "aic": "Farhan Butt",
+        "flw": "Lubna ",
+        "teamName": "UC 20-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 20",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "tanzeela usman",
+        "flw": "faisal chand",
+        "teamName": "UC 21-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "tanzeela usman",
+        "flw": "kaneez Fatima",
+        "teamName": "UC 21-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "tanzeela usman",
+        "flw": "komal ijaz",
+        "teamName": "UC 21-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "tanzeela usman",
+        "flw": "nighat Chaudhry",
+        "teamName": "UC 21-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "tanzeela usman",
+        "flw": "rehman sajid",
+        "teamName": "UC 21-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "shahzad Ahmad",
+        "flw": "Ayesha ",
+        "teamName": "UC 21-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "shahzad Ahmad",
+        "flw": "iqra saleem",
+        "teamName": "UC 21-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "shahzad Ahmad",
+        "flw": "razia jalal",
+        "teamName": "UC 21-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "shahzad Ahmad",
+        "flw": "saba Tabssum",
+        "teamName": "UC 21-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Rimsha ",
+        "flw": "Sadia ",
+        "teamName": "UC 21-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Rimsha ",
+        "flw": "Sajjad ",
+        "teamName": "UC 21-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Rimsha ",
+        "flw": "Nighat ",
+        "teamName": "UC 21-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Rimsha ",
+        "flw": "Suleman ",
+        "teamName": "UC 21-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Qasim Ahmad",
+        "flw": "shagufta nadeem",
+        "teamName": "UC 21-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Qasim Ahmad",
+        "flw": "sajida parveen",
+        "teamName": "UC 21-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Qasim Ahmad",
+        "flw": "sweeta ",
+        "teamName": "UC 21-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rana Naseer Ahmed",
+        "aic": "Qasim Ahmad",
+        "flw": "Ali hassan",
+        "teamName": "UC 21-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 21",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Saba Liaqat",
+        "flw": "Ayesha Arif",
+        "teamName": "UC 22-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Saba Liaqat",
+        "flw": "Fozia Saddique",
+        "teamName": "UC 22-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Saba Liaqat",
+        "flw": "Aqsa Rafiq",
+        "teamName": "UC 22-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Muhammad Azhar",
+        "flw": "Saira Shehzadi",
+        "teamName": "UC 22-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Muhammad Azhar",
+        "flw": "tehmina Naeem",
+        "teamName": "UC 22-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Muhammad Azhar",
+        "flw": "iqra Nazar",
+        "teamName": "UC 22-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Muhammad Azhar",
+        "flw": "Kiran Jameel",
+        "teamName": "UC 22-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Muhammad Azhar",
+        "flw": "Hammad Hassan",
+        "teamName": "UC 22-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Kanwal Shakeel",
+        "flw": "Samina Naveed",
+        "teamName": "UC 22-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Kanwal Shakeel",
+        "flw": "Shaista yaqoob",
+        "teamName": "UC 22-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Kanwal Shakeel",
+        "flw": "Sana riaz",
+        "teamName": "UC 22-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Kanwal Shakeel",
+        "flw": "Chanda iftikhar",
+        "teamName": "UC 22-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Anjum Rafique",
+        "flw": "Uzma ",
+        "teamName": "UC 22-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Anjum Rafique",
+        "flw": "Ayesha Kanwal",
+        "teamName": "UC 22-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Anjum Rafique",
+        "flw": "Mariam Saleem",
+        "teamName": "UC 22-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Ihsan Elahi",
+        "aic": "Anjum Rafique",
+        "flw": "Amreen Malik",
+        "teamName": "UC 22-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 22",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Ashfaq",
+        "flw": "Safina Amjad",
+        "teamName": "UC 23-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Ashfaq",
+        "flw": "Iram Shahzadi",
+        "teamName": "UC 23-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Ashfaq",
+        "flw": "Rukhshi Gul",
+        "teamName": "UC 23-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Ashfaq",
+        "flw": "Nimra Rasheed",
+        "teamName": "UC 23-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Ashfaq",
+        "flw": "Samina Jabbar",
+        "teamName": "UC 23-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Surkhab Mughal",
+        "flw": "Naila Rehman",
+        "teamName": "UC 23-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Surkhab Mughal",
+        "flw": "Maira ",
+        "teamName": "UC 23-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Surkhab Mughal",
+        "flw": "Shumaila Farid",
+        "teamName": "UC 23-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Surkhab Mughal",
+        "flw": "Mafia ",
+        "teamName": "UC 23-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Surkhab Mughal",
+        "flw": "Faiza ",
+        "teamName": "UC 23-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Asad Tariq",
+        "flw": "Muhammad Afzal",
+        "teamName": "UC 23-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Asad Tariq",
+        "flw": "Iqra Riaz",
+        "teamName": "UC 23-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Asad Tariq",
+        "flw": "Ayesha ",
+        "teamName": "UC 23-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Asad Tariq",
+        "flw": "Muhammad Usman",
+        "teamName": "UC 23-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Asad Tariq",
+        "flw": "Hina Kainat",
+        "teamName": "UC 23-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Raheel",
+        "flw": "Fazilat Bano",
+        "teamName": "UC 23-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Raheel",
+        "flw": "Zainab ",
+        "teamName": "UC 23-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Raheel",
+        "flw": "Mahpara ",
+        "teamName": "UC 23-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad Shafiq Azhar",
+        "aic": "Muhammad Raheel",
+        "flw": "Sumaira Mushtaq",
+        "teamName": "UC 23-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 23",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "waheed ",
+        "flw": "mohi ud din",
+        "teamName": "UC 24-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "waheed ",
+        "flw": "laiba ",
+        "teamName": "UC 24-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "waheed ",
+        "flw": "bushra ",
+        "teamName": "UC 24-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "waheed ",
+        "flw": "najma zulfiqar",
+        "teamName": "UC 24-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "Muhammad Akbar",
+        "flw": "Kiran pervaiz",
+        "teamName": "UC 24-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "Muhammad Akbar",
+        "flw": "Rukhsar shafique",
+        "teamName": "UC 24-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "Muhammad Akbar",
+        "flw": "Nazia kanwal",
+        "teamName": "UC 24-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "Muhammad Akbar",
+        "flw": "maham mujeeb",
+        "teamName": "UC 24-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Muhammad awais idrees",
+        "aic": "Muhammad Akbar",
+        "flw": "anila gul",
+        "teamName": "UC 24-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 24",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Zeeshan abubakar",
+        "flw": "FARKHANDA ",
+        "teamName": "UC 25-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Zeeshan abubakar",
+        "flw": "ASFA ",
+        "teamName": "UC 25-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Zeeshan abubakar",
+        "flw": "SUMAIRA ",
+        "teamName": "UC 25-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Zeeshan abubakar",
+        "flw": "AZKA ",
+        "teamName": "UC 25-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Salman Saleem",
+        "flw": "KHADIJA ",
+        "teamName": "UC 25-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Salman Saleem",
+        "flw": "Sultan zafar",
+        "teamName": "UC 25-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Salman Saleem",
+        "flw": "Anam ",
+        "teamName": "UC 25-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Salman Saleem",
+        "flw": "Aniqa ",
+        "teamName": "UC 25-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Syed toqeer Hussain shah",
+        "flw": "Arooj ",
+        "teamName": "UC 25-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Syed toqeer Hussain shah",
+        "flw": "zakia ",
+        "teamName": "UC 25-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Syed toqeer Hussain shah",
+        "flw": "Naiha ",
+        "teamName": "UC 25-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Syed toqeer Hussain shah",
+        "flw": "Mehwish ",
+        "teamName": "UC 25-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "SAQIB ",
+        "aic": "Syed toqeer Hussain shah",
+        "flw": "Naila ",
+        "teamName": "UC 25-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 25",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Rabia Mujeeb",
+        "flw": "Shahbakhat ",
+        "teamName": "UC 33-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Rabia Mujeeb",
+        "flw": "Najma ",
+        "teamName": "UC 33-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Rabia Mujeeb",
+        "flw": "Rizwana ",
+        "teamName": "UC 33-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Rabia Mujeeb",
+        "flw": "Zobia ",
+        "teamName": "UC 33-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Moazam Ali",
+        "flw": "Sobia ",
+        "teamName": "UC 33-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Moazam Ali",
+        "flw": "Yousif ",
+        "teamName": "UC 33-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Moazam Ali",
+        "flw": "Aysha ",
+        "teamName": "UC 33-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Moazam Ali",
+        "flw": "Almas ",
+        "teamName": "UC 33-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Moazam Ali",
+        "flw": "Shahzadi Shahid",
+        "teamName": "UC 33-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Usman Bajwa",
+        "flw": "Ayesha Ibrahim",
+        "teamName": "UC 33-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Usman Bajwa",
+        "flw": "Azra ",
+        "teamName": "UC 33-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Abu Bakar",
+        "aic": "Usman Bajwa",
+        "flw": "Asma parveen",
+        "teamName": "UC 33-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 33",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Maryam shoukat",
+        "flw": "Rubina Bano",
+        "teamName": "UC 34-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Maryam shoukat",
+        "flw": "Fahad Arif",
+        "teamName": "UC 34-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Maryam shoukat",
+        "flw": "Saba Saleem",
+        "teamName": "UC 34-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Maryam shoukat",
+        "flw": "Kusar parveen",
+        "teamName": "UC 34-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Muhammad Naseer",
+        "flw": "Aqsa Azam",
+        "teamName": "UC 34-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Muhammad Naseer",
+        "flw": "Saira Azam",
+        "teamName": "UC 34-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Muhammad Naseer",
+        "flw": "Nosheen ",
+        "teamName": "UC 34-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Muhammad Naseer",
+        "flw": "Amina Munir",
+        "teamName": "UC 34-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Shahzad Bashir",
+        "flw": "Sidra ibrahim",
+        "teamName": "UC 34-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Shahzad Bashir",
+        "flw": "Khalida Parveen",
+        "teamName": "UC 34-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Shahzad Bashir",
+        "flw": "Aasia Arif",
+        "teamName": "UC 34-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Faheem Qadir",
+        "aic": "Shahzad Bashir",
+        "flw": "Saima Akram",
+        "teamName": "UC 34-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 34",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Iqra Tabassum",
+        "flw": "nazia anum",
+        "teamName": "UC 35A-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Iqra Tabassum",
+        "flw": "sunmbal ",
+        "teamName": "UC 35A-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Iqra Tabassum",
+        "flw": "kiran ",
+        "teamName": "UC 35A-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Iqra Tabassum",
+        "flw": "ahmad ",
+        "teamName": "UC 35A-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Iqra Tabassum",
+        "flw": "laiba ",
+        "teamName": "UC 35A-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Sajid Ali",
+        "flw": "anum sheraz",
+        "teamName": "UC 35A-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Sajid Ali",
+        "flw": "farzana begum",
+        "teamName": "UC 35A-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Sajid Ali",
+        "flw": "fozia shokat",
+        "teamName": "UC 35A-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Sajid Ali",
+        "flw": "sobia shahid",
+        "teamName": "UC 35A-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Sajid Ali",
+        "flw": "sugran noor",
+        "teamName": "UC 35A-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Majid waseem",
+        "flw": "ayiza naseer",
+        "teamName": "UC 35A-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Majid waseem",
+        "flw": "kalsoom ",
+        "teamName": "UC 35A-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Majid waseem",
+        "flw": "aroona ",
+        "teamName": "UC 35A-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Majid waseem",
+        "flw": "iqra ",
+        "teamName": "UC 35A-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Naeem Baig",
+        "aic": "Majid waseem",
+        "flw": "bushra ",
+        "teamName": "UC 35A-20",
+        "teamNumber": 20,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Abid Ali",
+        "flw": "Zahida Parveen",
+        "teamName": "UC 35B-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Abid Ali",
+        "flw": "Nazia Shaheen",
+        "teamName": "UC 35B-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Abid Ali",
+        "flw": "Noreen Mubashir",
+        "teamName": "UC 35B-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Abid Ali",
+        "flw": "Liaqat Ali",
+        "teamName": "UC 35B-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Abid Ali",
+        "flw": "Sana Iqbal",
+        "teamName": "UC 35B-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Zubair Ahmed",
+        "flw": "Samia Akram",
+        "teamName": "UC 35B-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Zubair Ahmed",
+        "flw": "Adeela Sunny",
+        "teamName": "UC 35B-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Zubair Ahmed",
+        "flw": "Maria Iqbal",
+        "teamName": "UC 35B-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Zubair Ahmed",
+        "flw": "Hina Arshad",
+        "teamName": "UC 35B-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Zubair Ahmed",
+        "flw": "Tanveer Ahmed",
+        "teamName": "UC 35B-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Usman Akram",
+        "flw": "Shakila Bibi",
+        "teamName": "UC 35B-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Usman Akram",
+        "flw": "Asma Arif",
+        "teamName": "UC 35B-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Usman Akram",
+        "flw": "Raheela Salman",
+        "teamName": "UC 35B-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Usman Akram",
+        "flw": "Noreen Nadeem",
+        "teamName": "UC 35B-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Usman Akram",
+        "flw": "Samina Tabassum",
+        "teamName": "UC 35B-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Asifa Nisar",
+        "flw": "Anam Majid",
+        "teamName": "UC 35B-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Asifa Nisar",
+        "flw": "Shazia Hameed",
+        "teamName": "UC 35B-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Asifa Nisar",
+        "flw": "Amna Majid",
+        "teamName": "UC 35B-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Asifa Nisar",
+        "flw": "Nagina Kausar",
+        "teamName": "UC 35B-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Rabia Yousaf",
+        "aic": "Asifa Nisar",
+        "flw": "Rizwan Ahmed",
+        "teamName": "UC 35B-20",
+        "teamNumber": 20,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Sana Nadeem",
+        "flw": "Adnan Shokat",
+        "teamName": "UC 35C-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Sana Nadeem",
+        "flw": "muhammad umair",
+        "teamName": "UC 35C-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Sana Nadeem",
+        "flw": "nagina ",
+        "teamName": "UC 35C-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Sana Nadeem",
+        "flw": "Muhammad Adil",
+        "teamName": "UC 35C-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Sana Nadeem",
+        "flw": "rabia ",
+        "teamName": "UC 35C-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Muhammad Nadeem",
+        "flw": "Babar rehman",
+        "teamName": "UC 35C-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Muhammad Nadeem",
+        "flw": "Anim SHABAZ",
+        "teamName": "UC 35C-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Muhammad Nadeem",
+        "flw": "samreen ",
+        "teamName": "UC 35C-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Muhammad Nadeem",
+        "flw": "falaq Naz",
+        "teamName": "UC 35C-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Muhammad Nadeem",
+        "flw": "shehyar ",
+        "teamName": "UC 35C-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "iram batool",
+        "flw": "Mehreen amir",
+        "teamName": "UC 35C-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "iram batool",
+        "flw": "iram Shahzdi",
+        "teamName": "UC 35C-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "iram batool",
+        "flw": "Maqsood ",
+        "teamName": "UC 35C-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "iram batool",
+        "flw": "Falmoon ayoub",
+        "teamName": "UC 35C-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "iram batool",
+        "flw": "Sarfraz ",
+        "teamName": "UC 35C-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Usman Aslam",
+        "flw": "Tamsila ",
+        "teamName": "UC 35C-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Usman Aslam",
+        "flw": "Sonia Riaz",
+        "teamName": "UC 35C-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Usman Aslam",
+        "flw": "Rubina ",
+        "teamName": "UC 35C-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Usman Aslam",
+        "flw": "Mohsin ",
+        "teamName": "UC 35C-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Usman Aslam",
+        "flw": "Jawad Khan",
+        "teamName": "UC 35C-20",
+        "teamNumber": 20,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M.Awais Sardar",
+        "aic": "Usman Aslam",
+        "flw": "Esha Aslam",
+        "teamName": "UC 35C-21",
+        "teamNumber": 21,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 35C",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Asadullah ",
+        "flw": "Ishrat ",
+        "teamName": "UC 36A-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Asadullah ",
+        "flw": "Aneela zia",
+        "teamName": "UC 36A-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Asadullah ",
+        "flw": "Farha faiz",
+        "teamName": "UC 36A-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Asadullah ",
+        "flw": "Tayaba ",
+        "teamName": "UC 36A-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Asadullah ",
+        "flw": "Maria Ashraf",
+        "teamName": "UC 36A-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Hina ",
+        "flw": "Rimsha ",
+        "teamName": "UC 36A-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Hina ",
+        "flw": "Faiza dilbar",
+        "teamName": "UC 36A-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Hina ",
+        "flw": "huma ",
+        "teamName": "UC 36A-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Hina ",
+        "flw": "Naiza ",
+        "teamName": "UC 36A-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Hina ",
+        "flw": "Naseer ahmad",
+        "teamName": "UC 36A-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Noreen ",
+        "flw": "Saima tahir",
+        "teamName": "UC 36A-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Noreen ",
+        "flw": "Khadija begum",
+        "teamName": "UC 36A-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Noreen ",
+        "flw": "dilawar khan",
+        "teamName": "UC 36A-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Noreen ",
+        "flw": "Anila ",
+        "teamName": "UC 36A-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Hifsa Roohi",
+        "aic": "Noreen ",
+        "flw": "yasmeen ",
+        "teamName": "UC 36A-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36A",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Binyamin ",
+        "flw": "Nusrat Arshad",
+        "teamName": "UC 36B-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Binyamin ",
+        "flw": "Amna iqbal",
+        "teamName": "UC 36B-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Binyamin ",
+        "flw": "Muhammad Waseem",
+        "teamName": "UC 36B-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Binyamin ",
+        "flw": "iram ghulam hussain",
+        "teamName": "UC 36B-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Binyamin ",
+        "flw": "zeeshan ",
+        "teamName": "UC 36B-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ali Murtaza",
+        "flw": "Mehwish Ashraf",
+        "teamName": "UC 36B-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ali Murtaza",
+        "flw": "salma khaliq",
+        "teamName": "UC 36B-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ali Murtaza",
+        "flw": "Sidra arif",
+        "teamName": "UC 36B-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ali Murtaza",
+        "flw": "Naveed saroya",
+        "teamName": "UC 36B-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ali Murtaza",
+        "flw": "iqra tahir",
+        "teamName": "UC 36B-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ambreen Irfan",
+        "flw": "sehar shehzadi",
+        "teamName": "UC 36B-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ambreen Irfan",
+        "flw": "Ayesha Adnan",
+        "teamName": "UC 36B-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Zahida Rafiq",
+        "aic": "Ambreen Irfan",
+        "flw": "shabana Amanat",
+        "teamName": "UC 36B-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 36B",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Salman",
+        "flw": "iram Shahzdi",
+        "teamName": "UC 46-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Salman",
+        "flw": "Rubina Nazar Hussain",
+        "teamName": "UC 46-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Salman",
+        "flw": "Sana ",
+        "teamName": "UC 46-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Salman",
+        "flw": "M Adeel",
+        "teamName": "UC 46-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Salman",
+        "flw": "Faiza Tabsum",
+        "teamName": "UC 46-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Saba Abaid",
+        "flw": "Rahat Naseem",
+        "teamName": "UC 46-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Saba Abaid",
+        "flw": "Maryum ",
+        "teamName": "UC 46-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Saba Abaid",
+        "flw": "Rimsha Saeed",
+        "teamName": "UC 46-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Saba Abaid",
+        "flw": "Adeeba Shahzadi",
+        "teamName": "UC 46-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Saba Abaid",
+        "flw": "Asia Khunam",
+        "teamName": "UC 46-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Waqas ",
+        "flw": "Amina ",
+        "teamName": "UC 46-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Waqas ",
+        "flw": "Naila Noreen",
+        "teamName": "UC 46-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Waqas ",
+        "flw": "Nasreen Umair",
+        "teamName": "UC 46-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Waqas ",
+        "flw": "Zia ",
+        "teamName": "UC 46-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Waqas ",
+        "flw": "Tuba Razzaq",
+        "teamName": "UC 46-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Imran",
+        "flw": "Aleeza Faisal",
+        "teamName": "UC 46-16",
+        "teamNumber": 16,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Imran",
+        "flw": "Eman ",
+        "teamName": "UC 46-17",
+        "teamNumber": 17,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Imran",
+        "flw": "Fareeda ",
+        "teamName": "UC 46-18",
+        "teamNumber": 18,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "M Imran",
+        "flw": "Anum Siddique",
+        "teamName": "UC 46-19",
+        "teamNumber": 19,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Taleeha Razzaq",
+        "flw": "Sidra Aslam",
+        "teamName": "UC 46-20",
+        "teamNumber": 20,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Taleeha Razzaq",
+        "flw": "Iram Ghulam Hussain",
+        "teamName": "UC 46-21",
+        "teamNumber": 21,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Taleeha Razzaq",
+        "flw": "Syed Waqas",
+        "teamName": "UC 46-22",
+        "teamNumber": 22,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "M Mudassar Mushtaq",
+        "aic": "Taleeha Razzaq",
+        "flw": "M Akhtar Ali",
+        "teamName": "UC 46-23",
+        "teamNumber": 23,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 46",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "M Anwar",
+        "flw": "shabana naaz",
+        "teamName": "UC 47-1",
+        "teamNumber": 1,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "M Anwar",
+        "flw": "Rukhsana ",
+        "teamName": "UC 47-2",
+        "teamNumber": 2,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "M Anwar",
+        "flw": "Musarat ",
+        "teamName": "UC 47-3",
+        "teamNumber": 3,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "M Anwar",
+        "flw": "yasmin kosar",
+        "teamName": "UC 47-4",
+        "teamNumber": 4,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "M Anwar",
+        "flw": "sadia rehmat",
+        "teamName": "UC 47-5",
+        "teamNumber": 5,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Naheed Kauser",
+        "flw": "RABIA ",
+        "teamName": "UC 47-6",
+        "teamNumber": 6,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Naheed Kauser",
+        "flw": "FARAH ",
+        "teamName": "UC 47-7",
+        "teamNumber": 7,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Naheed Kauser",
+        "flw": "RUKHSANA SHAHZADI",
+        "teamName": "UC 47-8",
+        "teamNumber": 8,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Naheed Kauser",
+        "flw": "NAZIA SHAHID",
+        "teamName": "UC 47-9",
+        "teamNumber": 9,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Naheed Kauser",
+        "flw": "YASMIN SHABANA",
+        "teamName": "UC 47-10",
+        "teamNumber": 10,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Sobia Naeem",
+        "flw": "Rukhsana ",
+        "teamName": "UC 47-11",
+        "teamNumber": 11,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Sobia Naeem",
+        "flw": "Sobia ",
+        "teamName": "UC 47-12",
+        "teamNumber": 12,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Sobia Naeem",
+        "flw": "Nadia ",
+        "teamName": "UC 47-13",
+        "teamNumber": 13,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Sobia Naeem",
+        "flw": "Shamsa ",
+        "teamName": "UC 47-14",
+        "teamNumber": 14,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    },
+    {
+        "ucmo": "Azra Naseer",
+        "aic": "Sobia Naeem",
+        "flw": "Tenziela ",
+        "teamName": "UC 47-15",
+        "teamNumber": 15,
+        "territory": {
+            "district": "Lahore",
+            "division": "Lahore",
+            "uc": "UC 47",
+            "tehsilOrTown": "SHALIMAR TOWN"
+        }
+    }
+]
