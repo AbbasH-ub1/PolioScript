@@ -1,7 +1,6 @@
 const mongoose = require("mongoose");
 
 const dbUri = "mongodb://localhost:27017/polio"
-// const dbUri = "mongodb+srv://bobojo4221:bGvxmeL2vIpYOqXa@cluster0.dor2y.mongodb.net/polio"
 
 const dbConnection = async () => {
     return new Promise(async (resolve, reject) => {
